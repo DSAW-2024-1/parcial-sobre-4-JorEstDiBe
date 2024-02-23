@@ -33,3 +33,6 @@ Requerimientos:
 | HTML Semántico             | 1       |
 | Funcionalidad              | 1.5     |
 | Despliegue en Github Pages | 0.5     |
+
+## GitHub Pages
+link: https://dsaw-2024-1.github.io/parcial-sobre-4-JorEstDiBe/ 
