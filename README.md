@@ -29,10 +29,16 @@ Requerimientos:
 
 | Criterio                   | Puntaje |
 | -------------------------- | ------- |
-| Diseño Responsive          | 2       |
-| HTML Semántico             | 1       |
-| Funcionalidad              | 1.5     |
-| Despliegue en Github Pages | 0.5     |
+| Diseño Responsive          | 1.5/2       |
+| HTML Semántico             | 0.8/1       |
+| Funcionalidad              | 1.2/1.5     |
+| Despliegue en Github Pages | 0.5/0.5     |
+
+Nota parcial: 4 x 0.8 -> 3.2
+
+![image](https://github.com/DSAW-2024-1/parcial-sobre-4-JorEstDiBe/assets/50994778/e744c47d-c522-4673-9833-51f4a1a93517)
+
+
 
 ## GitHub Pages
 link: https://dsaw-2024-1.github.io/parcial-sobre-4-JorEstDiBe/ 
